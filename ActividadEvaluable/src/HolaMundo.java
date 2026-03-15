@@ -5,8 +5,7 @@ public class HolaMundo {
 		// TODO Auto-generated method stub
 		System.out.println("Hola Mundo");
 		System.out.println("Actividad Evaluable: Git-Eclipse");
-		System.out.println("Cambio 1");
-		System.out.println("Cambio 2");
+		System.out.println("AE: añadimos el cambio uno");
 	}
 
 }
